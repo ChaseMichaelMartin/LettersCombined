@@ -30,12 +30,12 @@ and mail them into one envelop thus saving postage.
 3. View the 'CombinedLetters.txt' folder to see each letter's content combined as one.
 
 4. View the 'Report.txt' file in the 'Output' folder, NOTICE only two cobinedLetters & two unique IDs listed. 
-   **(inputFile 5 and 6's student ID's don't match, therefore there is no student2 ( no 3rd student ID to list in Report.txt ))**
    
-5. View the 'Archive' folder to view the 'Archive.txt' file containing all recieved file's content.
+5. View the 'Archive' folder to view the 'Archive' folder containing all of the 'Input' files.
 
 
  Assumptions: 
+ - I refactored as much as I could to hopefully fulfill you expectations a bit more, I am willing to continue to work on this over the weekend if I can.
   
   - I intitially attempted to use some old code I have from my college ConsoleApp projects. I tried using my StreamWriter code w/
   a list of letters collected from each department that combineTwoLetters() based on the conditions that would then generate a Student 
@@ -43,6 +43,7 @@ and mail them into one envelop thus saving postage.
   
   
  Reason for not using interface & implementation class / Problems: 
+ - I bet I would use this interface & implementation class if I had a little more technical-based directions on how to implement these features.
  
  - I really wanted to use my StreamWriter code because I read you were allowed to use any string for inputFile content &
    there was no need to consider periperal requirements so I wanted to read  text and write text into certain directories,
@@ -66,9 +67,12 @@ and mail them into one envelop thus saving postage.
    a test tomorrow that checks for that while awaiting your reponse!  
  
  
- I would be more than happy to improve on this tomorrow. ( Friday, Feb. 24 )
+ I would be more than happy to improve on this over the weekend even though it is due @9:00 AM on Saturday Feb. 25th 
  
- I am eager to hear back, thank you so much for your time!
+ I apologize if this doesn't look up to par with what you expected. I feel that if you wrote out how to implement these features in a technical manner I 
+ would be able to demonstrate my technical comprehension skills in addition to hopefully improving the project. 
+ 
+ Thank you again for your time & consideration.
   
   
 
