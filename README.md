@@ -1,40 +1,32 @@
- Time Estimated : 2 hours 
- 
- Actual Hours : 4 hours 
+ **Time Estimated : 2 hours**
 
+**Actual Hours : 4 hours**
 
+This project's purpose is to save on mailing fees.
 
-This project's purpose is to save on mailing fees. 
+For example, if a student has both an admission letter and a scholarship letter, then we can combine the two letters, and mail them into one envelop thus saving postage.
 
-For example, if a student has both an admission letter and a scholarship letter, then we can combine the two letters, 
-and mail them into one envelop thus saving postage. 
-
-- This Console App has the following features:
+**This Console App has the following features:**
 
 1. Move all recieved files from the 'Input' folder to the 'Archive' folder.
 
-2. Find out students who have recieved both admission & scholarship letters that day by using the Student's specific ID.
-   Create/Save all combined letters to Output folder.
-   
-3. Generate a text report in specific formatting containing the processing date, the total number of combined letters & 
-   their corresponding Uneversity IDs. This text report file is placed in the same folder as the combined letter as instructed.
-   ('Output')
+2. Find out students who have recieved both admission & scholarship letters that day by using the Student's specific ID. Create/Save all combined letters to Output folder.
 
+3. Generate a text report in specific formatting containing the processing date, the total number of combined letters & their corresponding Uneversity IDs. This text report file is placed in the same folder as the combined letter as instructed. ('Output')
 
-- How To Test/Verifiy:
+**How To Test/Verifiy:** *!Please mke sure you've updated the file paths to yours accordingly.!*
 
-1. Build Application
+Build Application
 
-2. Press 'Start' button in IDE.
+Press 'Start' button in IDE.
 
-3. View the 'CombinedLetters.txt' folder to see each letter's content combined as one.
+View the 'CombinedLetters.txt' folder to see each letter's content combined as one.
 
-4. View the 'Report.txt' file in the 'Output' folder, NOTICE only two cobinedLetters & two unique IDs listed. 
-   
-5. View the 'Archive' folder to view the 'Archive' folder containing all of the 'Input' files.
+View the 'Report.txt' file in the 'Output' folder, NOTICE only two cobinedLetters & two unique IDs listed. (inputFile 5 and 6's student ID's don't match, therefore there is no student2 ( no 3rd student ID to list in Report.txt ))
 
+View the 'Archive' folder to view the 'Archive.txt' file containing all recieved file's content.
 
- Assumptions: 
+ **Assumptions:** 
  - I refactored as much as I could to hopefully fulfill you expectations a bit more, I am willing to continue to work on this over the weekend if I can.
   
   - I intitially attempted to use some old code I have from my college ConsoleApp projects. I tried using my StreamWriter code w/
@@ -42,7 +34,7 @@ and mail them into one envelop thus saving postage.
   Object. This Student would have a unique ID to list in the dated Report.txt & letter.Count() to tell if student has both a scholarship & admission form.
   
   
- Reason for not using interface & implementation class / Problems: 
+ **Reason for not using interface & implementation class / Problems:** 
  - I bet I would use this interface & implementation class if I had a little more technical-based directions on how to implement these features.
  
  - I really wanted to use my StreamWriter code because I read you were allowed to use any string for inputFile content &
@@ -61,7 +53,7 @@ and mail them into one envelop thus saving postage.
  - I have used Arrays, Lists, HashMaps with db tabels, objects & in Unit Tests but not with txt or ConsoleApps. I bet if I had a little help this would've been a breeze! 
  
  
- Highlights: 
+ **Highlights:** 
  
  - I just realized that there's probably a way to use the Archive folder to check whether or not the program was ran the previous day, I will try to create 
    a test tomorrow that checks for that while awaiting your reponse!  
