@@ -59,7 +59,7 @@ View the 'Archive' folder to view the 'Archive.txt' file containing all recieved
    a test tomorrow that checks for that while awaiting your reponse!  
  
  
- I would be more than happy to improve on this over the weekend even though it is due @9:00 AM on Saturday Feb. 25th 
+ I would be more than happy to improve on this over the weekend even though it is due @9:00 AM on Saturday Feb. 25th. 
  
  I apologize if this doesn't look up to par with what you expected. I feel that if you wrote out how to implement these features in a technical manner I 
  would be able to demonstrate my technical comprehension skills in addition to hopefully improving the project. 
